@@ -1,0 +1,15 @@
+/* Lesson 06 - Saudah Jones */
+body {
+    margin: 0 auto;
+    width: 70%;
+    font: 100% Tahoma;
+}
+html {
+    background-color: #3D2504;
+}
+header {
+    text-align: center; font-weight: bold; font-size: 2em;
+}
+ul {
+    font-style: italic;
+}
